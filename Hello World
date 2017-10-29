@@ -1,0 +1,15 @@
+import java.util.Scanner;
+class Hello
+{
+public static void main(String[]args) 
+{
+String Hello;
+Scanner scan=new Scanner(System.in);
+System.out.print("Geben sie etwas ein:"[Hello] [Goodbye]);
+Hello=scan.nextLine();
+if(Hello.equals("Hello"))
+System.out.println("HALLO WELT");
+else
+System.out.println("AUF WIEDERSEHEN");
+}
+}
